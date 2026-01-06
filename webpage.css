@@ -1,0 +1,35 @@
+*/{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(224, 132, 132);
+    border: 5px solid rgb(151, 46, 64);
+    border-radius: 10px;
+
+}
+header{
+    background-color: #e6e4dc;
+    border-radius: 5px;
+    
+    height: 10vh;
+    border: 2px solid rgb(26, 27, 27);
+    
+   
+
+}
+ul{
+   
+   display: flex;
+   align-items: center;
+   gap: 150px;
+   justify-content: center;
+  
+   
+ 
+}
+
+li{
+    font-size: large 50vh;
+}
+
